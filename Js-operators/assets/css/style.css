@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.navbar {
+    margin-top: 20px;
+    justify-content: center;
+}
+.navbar input {
+    margin-left: 20px;
+    width: 250px;
+    height: 30px;
+    text-align: center;
+    border-radius: 20px;
+    border: 1px solid blue;
+}
+.btnline{
+    width: 100%;
+}
+#result .input {
+    text-align: center;
+
+}
+#result input {
+    
+margin-left: 20px;
+width: 300px;
+height: 30px;
+text-align: center;
+border-radius: 20px;
+border: 1px solid blue;
+
+}
